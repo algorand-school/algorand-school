@@ -1,0 +1,2 @@
+# algorand-school
+public website
