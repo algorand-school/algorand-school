@@ -1,3 +1,3 @@
-# Internationa School in Algorand Smart Contracts
+# International School on Algorand Smart Contracts
 
-public website
+TODO
