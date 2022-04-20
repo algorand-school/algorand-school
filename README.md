@@ -3,7 +3,7 @@
 Algorand has several distinctive features that make it different from other mainstream blockchain platforms: for instance, the native custom assets, the atomic groups of transactions, the separation between stateless to stateful smart contracts, the concept of local variables, and the TEAL bytecode language. 
 All these features can be combined to design complex smart contracts, that can be executed on-chain by the Algorand Virtual Machine. 
 
-The International School on Algorand Smart Contracts aims at giving a comprehensive understanding on the development of smart contracts for the Algorand blockchain. The school is organized by leading scientists in the area of blockchain technologies, and it is open to international MSc/PhD students, researchers and practitioners from academia and industry. 
+The *International School on Algorand Smart Contracts* aims at giving a comprehensive understanding on the development of smart contracts for the Algorand blockchain. The school is organized by [leading scientists](#organising-committee) in the area of blockchain technologies, and it is open to international MSc/PhD students, researchers and practitioners from academia and industry. 
 
 The school programme combines theoretical lectures with the practical sessions, and includes a 1-week project development work, with [awards](#developers-projects--awards) for the best projects.
 
