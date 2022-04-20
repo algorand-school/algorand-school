@@ -120,4 +120,4 @@ For additional information, please contact the organization chair: bart@unica.it
 
 ## Acknowledgements
 
-The school is organized thanks to the economic and organizing support of the [Algorand Foundation](https://algorand.foundation/).
+The school is organized thanks to the economic and organizing support of the [Algorand Foundation](https://algorand.foundation/) and to the support of the [CINI working group on Blockchain](https://dltgroup.dmi.unipg.it/index.php).
