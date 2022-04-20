@@ -22,7 +22,7 @@ The school will be hosted online via Zoom. All sessions will be held in English.
 The school plans for a maximum of 30 attendees; the attendance to the school is **free**. 
 The participants will be selected by the scientific committee on a CV best-match basis.
 
-Registration link (not active yer): https://algorand-school.github.io/algorand-school/registration
+**Registration link** (not active yet): https://algorand-school.github.io/algorand-school/registration
 
 
 ## School programme
