@@ -17,6 +17,9 @@ The [school programme](#school-programme) combines theoretical lectures with the
 
 The school will be hosted online via Zoom. All sessions will be held in English.
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AlgorandSchool.svg?style=social&label=Follow%20%40AlgorandSchool)](https://twitter.com/AlgorandSchool)
+
+
 ## Registration & selection
 
 The school plans for a maximum of 30 attendees; the attendance to the school is **free**. 
@@ -97,7 +100,7 @@ TBA
 **19.00-19.30.**
 **Closing & project awards**
 
-## Developers' projects & Awards
+## Developers' projects & awards
 
 In the second week a project on smart contract programming will be assigned to the school participants. Participants will be grouped by the school organizers according to their background and expertise. The groups will work on the projects offline during the rest of the second and third weeks, also interacting with the school organizers and with the lab tutors. The developed projects will be presented in the last week and will be evaluated by an evaluation committee. The code of projects will be submitted to the [Algorand Developers Portal](https://developer.algorand.org/), in the form of articles including an overview of the solution, code snippets, and the link to the full code.
 
