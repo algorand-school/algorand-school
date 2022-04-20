@@ -5,7 +5,7 @@ All these features can be combined to design complex smart contracts, that can b
 
 The *International School on Algorand Smart Contracts* aims at giving a comprehensive understanding on the development of smart contracts for the Algorand blockchain. The school is organized by [leading scientists](#organising-committee) in the area of blockchain technologies, and it is open to international MSc/PhD students, researchers and practitioners from academia and industry. 
 
-The school programme combines theoretical lectures with the practical sessions, and includes a 1-week project development work, with [awards](#developers-projects--awards) for the best projects.
+The [school programme](#school-programme) combines theoretical lectures with the practical sessions, and includes a 1-week project development work, with [awards](#developers-projects--awards) for the best projects.
 
 ## Important dates
 
