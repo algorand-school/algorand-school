@@ -93,6 +93,7 @@ This week has no lectures; rather, the week will be devoted to the development o
 **Best Practices round table**
 
 John Clarke, [AlgoFi](https://www.algofi.org/)
+
 TBA
 
 **16.00-18.30.**
