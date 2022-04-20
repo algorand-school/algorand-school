@@ -60,7 +60,7 @@ Cosimo Bassi, Algorand Foundation
 **18.00-19.00.**
 **Description of project requirements & success stories**
 
-Andrea Vitaletti, University of Roma “Sapienza”
+Andrea Vitaletti, Sapienza University of Rome
 
 ### October 4, 2022
 
@@ -74,7 +74,7 @@ Cosimo Bassi, Algorand Foundation
 **15.00-17.45.**
 **Smart contracts development Lab in pyTEAL**
 
-Marco Zecchini, University of Rome “Sapienza”
+Marco Zecchini, Sapienza University of Rome
 
 **18.00-19.00.**
 **Project Idea pitch**
@@ -118,7 +118,7 @@ The best three projects will be awarded at the school closing. The amounts of th
 * Claudio Schifanella, University of Turin, Italy
 * Francesco Tiezzi, University of Florence, Italy
 * Ivan Visconti, University of Salerno, Italy
-* Andrea Vitaletti, University of Rome “Sapienza”, Italy
+* Andrea Vitaletti, Sapienza University of Rome, Italy
 * Roberto Zunino, University of Trento, Italy
 
 For additional information, please contact the organization chair: bart@unica.it
