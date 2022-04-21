@@ -58,7 +58,7 @@ Roberto Zunino, University of Trento, Italy
 Cosimo Bassi, Algorand Foundation
 
 **18.00-19.00.**
-**Description of project requirements & success stories**
+**Description of project requirements & use cases**
 
 Andrea Vitaletti, Sapienza University of Rome
 
