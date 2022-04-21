@@ -46,14 +46,14 @@ Ivan Visconti, University of Salerno, Italy
 ### September 29, 2022
 
 **15.00-16.30.**
-**Algorand transactions and stateless contracts**
+**Algorand transactions and smart signatures**
 
 Massimo Bartoletti, University of Cagliari, Italy 
 and 
 Roberto Zunino, University of Trento, Italy
 
 **16.45-17.45.**
-**Introduction to Algorand Stateful contracts**
+**Introduction to Algorand stateful contracts**
 
 Cosimo Bassi, Algorand Foundation
 
