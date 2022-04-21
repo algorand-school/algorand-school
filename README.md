@@ -106,7 +106,7 @@ TBA
 
 In the second week a project on smart contract programming will be assigned to the school participants. Participants will be grouped by the school organizers according to their background and expertise. The groups, composed of 3 students each, will work on the projects offline during the rest of the second and third weeks, also interacting with the school organizers and with the lab tutors. The developed projects will be presented in the last week and will be evaluated by an evaluation committee. 
 
-After the school, the code of projects will be submitted to the Algorand Developers Portal, in the form of articles including an overview of the solution, code snippets, and the link to the full code. Awards will be granted once projects are submitted to the Algorand Developers Portal.
+After the school, participants will submit the code of projects to the Algorand Developers Portal, in the form of articles including an overview of the solution, code snippets, and the link to the full code. Awards will be granted once projects are submitted to the Algorand Developers Portal.
 
 The best three projects will be awarded at the school closing. The amounts of the awards are the following:
 - 1st prize: 2500 EUR
