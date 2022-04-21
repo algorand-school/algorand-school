@@ -25,7 +25,7 @@ The school will be hosted online via Zoom. All sessions will be held in English.
 The school plans for a maximum of 30 attendees; the attendance to the school is **free**. 
 The participants will be selected by the scientific committee on a CV best-match basis.
 
-**Registration link**: https://forms.gle/LHNoCVaNx2aBhu7z8
+**Registration link**: [https://forms.gle/LHNoCVaNx2aBhu7z8](https://forms.gle/LHNoCVaNx2aBhu7z8)
 
 
 ## School programme
@@ -53,7 +53,7 @@ and
 Roberto Zunino, University of Trento, Italy
 
 **16.45-17.45.**
-**Introduction to Algorand stateful contracts**
+**Introduction to Algorand smart contracts**
 
 Cosimo Bassi, Algorand Foundation
 
