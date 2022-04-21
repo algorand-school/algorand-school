@@ -13,20 +13,18 @@ The [school programme](#school-programme) combines theoretical lectures with the
 * Notification: September 10, 2022
 * School dates: September 27 - October 18, 2022
 
-## School venue
+## Participation
 
-The school will be hosted online via Zoom. All sessions will be held in English.
+The school will be hosted online. All sessions will be held in English.
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AlgorandSchool.svg?style=social&label=Follow%20%40AlgorandSchool)](https://twitter.com/AlgorandSchool)
-
-
-## Registration & selection
-
-The school plans for a maximum of 30 attendees; the attendance to the school is **free**. 
+The school plans for a maximum of 30 regular attendees; the attendance to the school is **free**. 
 The participants will be selected by the scientific committee on a CV best-match basis.
+
+Besides regular attendees, we also admit a number of listeners, who can attend the school synchronously or asynchronously. Unlike regular students, listeners will not participate in the development work, and therefore will not receive technical support. Asynchronous attendance will be possible through slides, recorded lectures, and code snippets published in the school website.
 
 **Registration link**: [https://forms.gle/LHNoCVaNx2aBhu7z8](https://forms.gle/LHNoCVaNx2aBhu7z8)
 
+**Twitter handle**: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AlgorandSchool.svg?style=social&label=Follow%20%40AlgorandSchool)](https://twitter.com/AlgorandSchool)
 
 ## School programme
 
