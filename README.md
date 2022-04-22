@@ -36,7 +36,7 @@ Besides regular attendees, we also admit a number of listeners, who can attend t
 The school organizers
 
 **15.30-19.00.**
-**Introduction to blockchain consensus: the Algorand case**
+**Blockchain consensus mechanisms**
 
 Ivan Visconti, University of Salerno, Italy
 
