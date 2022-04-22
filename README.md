@@ -116,7 +116,7 @@ The best three projects will be awarded at the school closing. The amounts of th
 
 * [Massimo Bartoletti](https://blockchain.unica.it/), University of Cagliari, Italy
 * Claudio Schifanella, University of Turin, Italy
-* Francesco Tiezzi, University of Florence, Italy
+* [Francesco Tiezzi](http://www.disia.unifi.it/tiezzi), University of Florence, Italy
 * Ivan Visconti, University of Salerno, Italy
 * Andrea Vitaletti, Sapienza University of Rome, Italy
 * Roberto Zunino, University of Trento, Italy
