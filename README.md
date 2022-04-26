@@ -56,7 +56,7 @@ Roberto Zunino, University of Trento, Italy
 **16.45-17.45.**
 **Introduction to Algorand smart contracts**
 
-Cosimo Bassi, Algorand Foundation
+Cosimo Bassi, Algorand Inc.
 
 **18.00-19.00.**
 **Description of project requirements & use cases**
@@ -68,7 +68,8 @@ Andrea Vitaletti, Sapienza University of Rome
 **15.00-19.00.**
 **Programming contracts in pyTEAL**
 
-Cosimo Bassi, Algorand Foundation
+Cosimo Bassi, Stefano De Angelis and Matteo Almanza, Algorand Inc.
+
 
 ### October 6, 2022
 
