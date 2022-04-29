@@ -31,7 +31,9 @@ Asynchronous attendance will be possible only through resources that speakers wi
 
 ## School programme
 
-### September 27, 2022
+***All times are GMT+2 (CEST)***
+
+### September 27, 2022 
 
 **15.00-15.30.**
 **Presentation of the school**
