@@ -21,7 +21,7 @@ The school plans for a maximum of 30 regular attendees; the attendance to the sc
 The participants will be selected by the scientific committee on a CV best-match basis.
 
 Besides regular attendees, we also admit a number of listeners, who can attend the school synchronously or asynchronously. Unlike regular students, listeners will not participate in the development work, and therefore will not receive technical support and will not be eligible for the project awards.
-Asynchronous attendance will be possible only through resources that speakers will make share in the school website
+Asynchronous attendance will be possible only through resources that speakers will share in the school website
 (e.g., slides, recorded lectures, code snippets).
 
 
