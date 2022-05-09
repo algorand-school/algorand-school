@@ -100,6 +100,7 @@ John Clarke, [AlgoFi](https://www.algofi.org/)
 
 TBA, [Planet Watch](https://www.planetwatch.io/)
 
+Fergal Walsh, [Tinyman](https://tinyman.org/)
 
 **16.00-18.30.**
 **Project presentations**
