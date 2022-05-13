@@ -96,11 +96,15 @@ This week has no lectures; rather, the week will be devoted to the development o
 **15.00-16.00.**
 **Best Practices round table**
 
+Ryan Terribilini, Head of Ecosystem Funding, [Algorand Foundation](https://algorand.foundation/) (moderator)
+
 John Clarke, [AlgoFi](https://www.algofi.org/)
 
 TBA, [Planet Watch](https://www.planetwatch.io/)
 
 Fergal Walsh, [Tinyman](https://tinyman.org/)
+
+Gideon Katten, [Folks Finance](https://folks.finance/)
 
 **16.00-18.30.**
 **Project presentations**
