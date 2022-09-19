@@ -70,7 +70,7 @@ Andrea Vitaletti, Sapienza University of Rome
 **15.00-19.00.**
 **Programming contracts in pyTEAL**
 
-Cosimo Bassi, Stefano De Angelis and Matteo Almanza, Algorand Inc.
+Cosimo Bassi, Stefano De Angelis, Matteo Almanza and Chris Kim, Algorand Inc.
 
 
 ### October 6, 2022
