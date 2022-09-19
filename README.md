@@ -67,11 +67,15 @@ Andrea Vitaletti, Sapienza University of Rome
 
 ### October 4, 2022
 
-**15.00-19.00.**
+**15.00-17.30.**
 **Programming contracts in pyTEAL**
 
-Cosimo Bassi, Stefano De Angelis, Matteo Almanza and Chris Kim, Algorand Inc.
+Cosimo Bassi, Stefano De Angelis, and Matteo Almanza, Algorand Inc.
 
+**17.30-19.00.**
+**Programming contracts in Beaker**
+
+Chris Kim, Algorand Inc.
 
 ### October 6, 2022
 
