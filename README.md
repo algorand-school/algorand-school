@@ -85,7 +85,7 @@ Chris Kim, Algorand Inc.
 Marco Zecchini, Sapienza University of Rome
 
 **18.00-19.00.**
-**Project Idea pitch**
+**Q&A on project development**
 
 In this week students will start the project for the development of a PoC exploiting Algorand.
 
