@@ -10,8 +10,8 @@ The [school programme](#school-programme) combines theoretical lectures with the
 ## Important dates
 
 * Application deadline: August 31, 2022 (closed)
-* Notification: **September 10, 2022**
-* School dates: September 27 - October 18, 2022
+* Notification: September 10, 2022
+* School dates: **September 27 - October 18, 2022**
 
 ## Participation
 
