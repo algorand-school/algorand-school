@@ -1,0 +1,35 @@
+#pragma version 2
+txn TypeEnum
+int pay
+==
+txn Amount
+int 0
+==
+&&
+arg 0
+byte "0"
+==
+arg 0
+arg 1
+addr IPX7RJQPIHEEESTRRKF4QGNERGZE325NNFSYA5IX76VZRUTPQXZWNEMS7Q
+ed25519verify
+&&
+txn CloseRemainderTo
+addr 2GYIH5HXKDNXA3F7BBIAT5IX744E2WY75GIQRLEWURVRK3XXDQ6LMRAHXU
+==
+&&
+arg 0
+byte "1"
+==
+arg 0
+arg 1
+addr IPX7RJQPIHEEESTRRKF4QGNERGZE325NNFSYA5IX76VZRUTPQXZWNEMS7Q
+ed25519verify
+&&
+txn CloseRemainderTo
+addr 3MTDHUNSO4RXC3ZPJ67C7TLEOFHFO2UNXHE34PN52VN2CSNYSEOXXHPFNY
+==
+&&
+||
+&&
+return
