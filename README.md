@@ -45,7 +45,7 @@ The school organizers
 
 Ivan Visconti, University of Salerno, Italy
 
-\[slides | video\]
+\[ [slides](slides/ViscontiConsensus.pdf) | video \]
 
 ### September 29, 2022
 
