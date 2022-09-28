@@ -1,7 +1,7 @@
 ## Oracle
 
-We experiment with a smart signature that transfers all the funds of a contract account to A or B, depending on the choice of an orale O.
-We three accounts with the following addresses:
+We experiment with a smart signature that transfers all the funds of a contract account to A or B, depending on the choice of an oracle O.
+Assume that we have we three accounts with the following addresses:
 ```
 # goal account list
 [offline]	O	IPX7RJQPIHEEESTRRKF4QGNERGZE325NNFSYA5IX76VZRUTPQXZWNEMS7Q	0 microAlgos
