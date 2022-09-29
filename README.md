@@ -45,7 +45,7 @@ The school organizers
 
 Ivan Visconti, University of Salerno, Italy
 
-\[ [slides](slides/ViscontiConsensus.pdf) | [video](https://www.youtube.com/watch?v=PJPJsMkTjec&t=17s) \]
+[ [slides](slides/ViscontiConsensus.pdf) | [video](https://www.youtube.com/watch?v=PJPJsMkTjec&t=17s) ]
 
 ### September 29, 2022
 
@@ -55,6 +55,8 @@ Ivan Visconti, University of Salerno, Italy
 Massimo Bartoletti, University of Cagliari, Italy 
 and 
 Roberto Zunino, University of Trento, Italy
+
+\[ slides | video \]
 
 **16.45-17.45.**
 **Introduction to Algorand smart contracts**
