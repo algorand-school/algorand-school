@@ -62,7 +62,7 @@ Roberto Zunino, University of Trento, Italy
 Cosimo Bassi, Algorand Inc.
 
 **18.00-19.00.**
-**Description of project requirements & use cases**
+**Description of project requirements & evaluation criteria**
 
 Andrea Vitaletti, Sapienza University of Rome
 
