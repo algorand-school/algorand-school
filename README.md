@@ -56,7 +56,7 @@ Massimo Bartoletti, University of Cagliari, Italy
 and 
 Roberto Zunino, University of Trento, Italy
 
-\[ slides | video \]
+\[ [slides](slides/BartolettiZuninoTransactions.pdf) | video \]
 
 **16.45-17.45.**
 **Introduction to Algorand smart contracts**
