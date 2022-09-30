@@ -68,6 +68,8 @@ Cosimo Bassi, Algorand Inc.
 
 Andrea Vitaletti, Sapienza University of Rome
 
+\[ [slides](slides/VitalettiProjects.pdf) \]
+
 ### October 4, 2022
 
 **15.00-17.30.**
