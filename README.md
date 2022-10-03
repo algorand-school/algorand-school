@@ -56,12 +56,14 @@ Massimo Bartoletti, University of Cagliari, Italy
 and 
 Roberto Zunino, University of Trento, Italy
 
-\[ [slides](slides/BartolettiZuninoTransactions.pdf) | video \]
+\[ [slides](slides/BartolettiZuninoTransactions.pdf) | [video](https://youtu.be/iFsIUdGuzoo) \]
 
 **16.45-17.45.**
 **Introduction to Algorand smart contracts**
 
 Cosimo Bassi, Algorand Inc.
+
+\[ [video](https://youtu.be/fTAPLiPcj28) \]
 
 **18.00-19.00.**
 **Description of project requirements & evaluation criteria**
