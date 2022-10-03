@@ -63,7 +63,7 @@ Roberto Zunino, University of Trento, Italy
 
 Cosimo Bassi, Algorand Inc.
 
-\[ [video](https://youtu.be/fTAPLiPcj28) \]
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) | [video](https://youtu.be/fTAPLiPcj28) \]
 
 **18.00-19.00.**
 **Description of project requirements & evaluation criteria**
