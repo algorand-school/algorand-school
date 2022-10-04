@@ -115,7 +115,7 @@ TBA, [Planet Watch](https://www.planetwatch.io/)
 
 Fergal Walsh, [Tinyman](https://tinyman.org/)
 
-Gideon Katten, [Folks Finance](https://folks.finance/)
+Giuseppe Palazzolo, [Folks Finance](https://folks.finance/)
 
 **16.00-18.30.**
 **Project presentations**
