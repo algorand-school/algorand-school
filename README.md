@@ -61,9 +61,9 @@ Roberto Zunino, University of Trento, Italy
 **16.45-17.45.**
 **Introduction to Algorand smart contracts**
 
-Cosimo Bassi, Algorand Inc.
+Cosimo Bassi, Algorand Labs
 
-\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) | [video](https://youtu.be/fTAPLiPcj28) \]
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 80 | [video](https://youtu.be/fTAPLiPcj28) \]
 
 **18.00-19.00.**
 **Description of project requirements & evaluation criteria**
@@ -76,13 +76,24 @@ Andrea Vitaletti, Sapienza University of Rome
 
 **15.00-17.30.**
 **Programming contracts in pyTEAL**
+1. PyTEAL Basics
 
-Cosimo Bassi, Stefano De Angelis, and Matteo Almanza, Algorand Inc.
+Matteo Almanza, Algorand Labs
+
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 157 \]
+
+2. Algorand ABI
+
+Stefano De Angelis, Algorand Labs
+
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 188 \]
 
 **17.30-19.00.**
 **Programming contracts in Beaker**
 
 Chris Kim, Algorand Inc.
+
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 219 \]
 
 ### October 6, 2022
 
