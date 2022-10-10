@@ -122,8 +122,6 @@ Ryan Terribilini, Head of Ecosystem Funding, [Algorand Foundation](https://algor
 
 John Clarke, [AlgoFi](https://www.algofi.org/)
 
-TBA, [Planet Watch](https://www.planetwatch.io/)
-
 Fergal Walsh, [Tinyman](https://tinyman.org/)
 
 Giuseppe Palazzolo, [Folks Finance](https://folks.finance/)
