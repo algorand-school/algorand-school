@@ -80,13 +80,13 @@ Andrea Vitaletti, Sapienza University of Rome
 
 Matteo Almanza, Algorand Labs
 
-\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 157 \]
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 157 | [video](https://youtu.be/zXDqJHK_Bqs) \]
 
 2. Algorand ABI
 
 Stefano De Angelis, Algorand Labs
 
-\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 188 \]
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 188 | [video](https://youtu.be/USLcyfVD_ws) \]
 
 **17.30-19.00.**
 **Programming contracts in Beaker**
@@ -101,6 +101,8 @@ Chris Kim, Algorand Inc.
 **Smart contracts development Lab in pyTEAL**
 
 Marco Zecchini, Sapienza University of Rome
+
+\[ [video](https://youtu.be/UEVUM8f6sro) \]
 
 **18.00-19.00.**
 **Q&A on project development**
