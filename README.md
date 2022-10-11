@@ -93,7 +93,7 @@ Stefano De Angelis, Algorand Labs
 
 Chris Kim, Algorand Inc.
 
-\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 219 \]
+\[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 219 | [video](https://youtu.be/031VvOxvuxY) \]
 
 ### October 6, 2022
 
