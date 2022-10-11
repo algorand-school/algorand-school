@@ -128,6 +128,8 @@ Fergal Walsh, [Tinyman](https://tinyman.org/)
 
 Giuseppe Palazzolo, [Folks Finance](https://folks.finance/)
 
+Austen Probst, [AlgoSeas](https://algoseas.io/marketplace)
+
 **16.00-18.30.**
 **Project presentations**
 
