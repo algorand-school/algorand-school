@@ -74,21 +74,21 @@ Andrea Vitaletti, Sapienza University of Rome
 
 ### October 4, 2022
 
-**15.00-17.30.**
-**Programming contracts in pyTEAL**
-1. PyTEAL Basics
+**15.00-16.15.**
+**Programming contracts in pyTEAL 1: PyTEAL Basics
 
 Matteo Almanza, Algorand Labs
 
 \[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 157 | [video](https://youtu.be/zXDqJHK_Bqs) \]
 
-2. Algorand ABI
+**16.15-17.30.**
+**Programming contracts in pyTEAL 2: Algorand ABI
 
 Stefano De Angelis, Algorand Labs
 
 \[ [slides](https://github.com/cusma/algorand-school/blob/main/algorand-school-english.pdf) from page 188 | [video](https://youtu.be/USLcyfVD_ws) \]
 
-**17.30-19.00.**
+**17.45-19.00.**
 **Programming contracts in Beaker**
 
 Chris Kim, Algorand Inc.
