@@ -11,7 +11,7 @@ The [school programme](#school-programme) combines theoretical lectures with the
 
 * Application deadline: August 31, 2022 (closed)
 * Notification: September 10, 2022
-* School dates: **September 27 - October 18, 2022**
+* School dates: September 27 - October 18, 2022
 
 ## Participation
 
@@ -143,9 +143,9 @@ In the second week a project on smart contract programming will be assigned to t
 After the school, participants will submit the code of projects to the Algorand Developers Portal, in the form of articles including an overview of the solution, code snippets, and the link to the full code. Awards will be granted once projects are submitted to the Algorand Developers Portal.
 
 The best three projects will be awarded at the school closing. The amounts of the awards are the following (before taxes):
-- 1st prize: 2500 EUR
-- 2nd prize: 1500 EUR
-- 3rd prize: 1000 EUR
+- **1st prize** (2500 EUR): [Algorand Games Platform](https://github.com/Geladen/algorand-games-platform/)
+- **2nd prize** (1500 EUR): [Algorand NFT loan](https://github.com/dariocast/algorand-nft-loan)
+- **3rd prize** (1000 EUR): [AlgoBet](https://github.com/n-elia/algobet)
 
 
 ## Organising committee
